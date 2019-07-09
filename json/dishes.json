@@ -1,0 +1,982 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Biryani",
+    "dishType": "non-veg",
+    "imgUrl": "https://kfoods.com//images1/newrecipeicon/Chicken-Biryani_3464.jpg",
+    "recipeLink": ""
+  },
+  {
+    "id": 2,
+    "name": "Paya",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 3,
+    "name": "Qorma",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 4,
+    "name": "Pulao",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 5,
+    "name": "Nihari",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 6,
+    "name": "Alu Gobi",
+    "dishType": "veg",
+    "imgUrl": "https://www.listchallenges.com/f/items/ee37201c-a855-4039-b17b-ebfb2ab312da.jpg",
+    "recipeLink": ""
+  },
+  {
+    "id": 7,
+    "name": "Alu Matar",
+    "dishType": "non",
+    "imgUrl": "https://www.listchallenges.com/f/items/ebb9dfdb-bfce-483f-b9df-7550ffec266e.jpg",
+    "recipeLink": ""
+  },
+  {
+    "id": 8,
+    "name": "Butter Chicken",
+    "dishType": "non-veg",
+    "imgUrl": "https://www.listchallenges.com/f/items/a290f888-8bca-40a6-ae23-228685bb2e6a.jpg",
+    "recipeLink": ""
+  },
+  {
+    "id": 9,
+    "name": "Daal Chana",
+    "dishType": "veg",
+    "imgUrl": "https://www.listchallenges.com/f/items/3c6d7b6d-d868-4ace-b5fb-d888df322c5b.jpg",
+    "recipeLink": ""
+  },
+  {
+    "id": 10,
+    "name": "Chicken Biriyani",
+    "dishType": "non-veg",
+    "imgUrl": "https://www.listchallenges.com/f/items/991f1bc7-3657-4380-9ff8-85a22af04dc9.jpg",
+    "recipeLink": ""
+  },
+  {
+    "id": 11,
+    "name": "Chili Chicken",
+    "dishType": "non-veg",
+    "imgUrl": "https://www.listchallenges.com/f/items/2dfe7895-b5e3-42e5-99cb-a7e1fdbacd5d.jpg",
+    "recipeLink": ""
+  },
+  {
+    "id": 12,
+    "name": "Dal Makhani",
+    "dishType": "veg",
+    "imgUrl": "https://www.listchallenges.com/f/items/642d7903-f8a8-491c-a61b-a922cce580ee.jpg",
+    "recipeLink": ""
+  },
+  {
+    "id": 13,
+    "name": "Qeema",
+    "dishType": "non-veg",
+    "imgUrl": "https://www.listchallenges.com/f/items/8d1322b4-b0a8-416a-a00c-7b2261ff23f1.jpg",
+    "recipeLink": ""
+  },
+  {
+    "id": 14,
+    "name": "Koftay",
+    "dishType": "non-veg",
+    "imgUrl": "https://www.listchallenges.com/f/items/b526ce2d-d49b-409a-8e5c-9a3945439903.jpg",
+    "recipeLink": ""
+  },
+  {
+    "id": 15,
+    "name": "Daal Masoor",
+    "dishType": "veg",
+    "imgUrl": "https://www.listchallenges.com/f/items/f36b9fa3-1ea2-42e0-b62b-40a58fa97fb8.jpg",
+    "recipeLink": ""
+  },
+  {
+    "id": 16,
+    "name": "Chicken Qorma",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 17,
+    "name": "Daal Saag",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 18,
+    "name": "Tandoori Chicken",
+    "dishType": "non-veg",
+    "imgUrl": "https://www.listchallenges.com/f/items/4ca865cc-454d-4c5f-b29b-9984a9b543e6.jpg",
+    "recipeLink": ""
+  },
+  {
+    "id": 19,
+    "name": "Vegetable Jalfrezi",
+    "dishType": "veg",
+    "imgUrl": "https://www.listchallenges.com/f/items/58ff5e9c-a37a-4077-bbd9-0b2b142d6571.jpg",
+    "recipeLink": "https://food.ndtv.com/recipe-vegetable-jalfrezi-98894"
+  },
+  {
+    "id": 20,
+    "name": "Chicken Haleem",
+    "dishType": "non-veg",
+    "imgUrl": "https://www.desiblitz.com/wp-content/uploads/2015/12/Dishes-Warm-Haleem.jpg",
+    "recipeLink": ""
+  },
+  {
+    "id": 21,
+    "name": "Beef Haleem",
+    "dishType": "non-veg",
+    "imgUrl": "https://www.desiblitz.com/wp-content/uploads/2015/12/Dishes-Warm-Haleem.jpg",
+    "recipeLink": ""
+  },
+  {
+    "id": 22,
+    "name": "Alo Gosht",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 23,
+    "name": "Aloo Ka Paratha",
+    "dishType": "veg",
+    "imgUrl": "https://www.desiblitz.com/wp-content/uploads/2015/12/Dishes-Warm-Aloo-Paratha.jpg",
+    "recipeLink": ""
+  },
+  {
+    "id": 24,
+    "name": "Qeemay Ka Parata",
+    "dishType": "non-veg",
+    "imgUrl": "https://www.desiblitz.com/wp-content/uploads/2015/12/Dishes-Warm-Aloo-Paratha.jpg",
+    "recipeLink": ""
+  },
+  {
+    "id": 25,
+    "name": "Murgh Choolay",
+    "dishType": "non-veg",
+    "imgUrl": "http://preetiworld.com/indianfoodrecipes/wp-content/uploads/Lahori_Murgh_Cholay.jpg",
+    "recipeLink": ""
+  },
+  {
+    "id": 26,
+    "name": "Daal Mong",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 27,
+    "name": "Garlic Chicken",
+    "dishType": "non-veg",
+    "imgUrl": "https://www.desiblitz.com/wp-content/uploads/2015/12/Garlic-Curry1.jpg",
+    "recipeLink": "https://www.foodnetwork.com/recipes/food-network-kitchen/garlic-chicken-and-potatoes-recipe-2120118"
+  },
+  {
+    "id": 28,
+    "name": "Fish Birynai",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 29,
+    "name": "Lahori Sardari Machli",
+    "dishType": "non-veg",
+    "imgUrl": "https://i.pinimg.com/originals/59/45/c9/5945c9a0d97fef9ce29f7ca4665af18a.jpg",
+    "recipeLink": "https://madeeasy.com.pk/lahori-sardari-machli/"
+  },
+  {
+    "id": 30,
+    "name": "Alo ka bhurta",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 31,
+    "name": "Khattay Alo",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 32,
+    "name": "Nargasi Koftay",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 33,
+    "name": "Tawa Chicken",
+    "dishType": "non-veg",
+    "imgUrl": "https://etribuneblogs.files.wordpress.com/2015/04/tarkahandikababnewmain2.jpg",
+    "recipeLink": "https://madeeasy.com.pk/tawa-chicken/"
+  },
+  {
+    "id": 34,
+    "name": "Handi Murgh Paneer",
+    "dishType": "non-veg",
+    "imgUrl": "https://etribuneblogs.files.wordpress.com/2015/04/handimurghpaneermain.jpg",
+    "recipeLink": "https://madeeasy.com.pk/handi-murgh-paneer-recipe/"
+  },
+  {
+    "id": 35,
+    "name": "Afghani Pulao",
+    "dishType": "non-veg",
+    "imgUrl": "https://etribuneblogs.files.wordpress.com/2015/04/afghanipulaomain.jpg",
+    "recipeLink": "http://madeeasy.com.pk/recipes/wedding-recipe/afghanipulao/"
+  },
+  {
+    "id": 36,
+    "name": "Sarson Ka Saag",
+    "dishType": "veg",
+    "imgUrl": "https://etribuneblogs.files.wordpress.com/2015/04/sarsonkasaagmain2.jpg",
+    "recipeLink": "https://madeeasy.com.pk/sarson-ka-saag-recipe/"
+  },
+  {
+    "id": 37,
+    "name": "Fish Katakat",
+    "dishType": "non-veg",
+    "imgUrl": "https://etribuneblogs.files.wordpress.com/2015/04/fish_katakat.jpg",
+    "recipeLink": "https://madeeasy.com.pk/fish-katakat-recipe/"
+  },
+  {
+    "id": 38,
+    "name": "Begun",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 39,
+    "name": "Cholon ka pulao",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 40,
+    "name": "butter chicken curry",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 41,
+    "name": "chicken karahi",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 42,
+    "name": "macaroni",
+    "dishType": "non-veg",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mac%26cheese.jpg/1920px-Mac%26cheese.jpg",
+    "recipeLink": ""
+  },
+  {
+    "id": 43,
+    "name": "White karahi",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 44,
+    "name": "Chicken tikka birynai",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 45,
+    "name": "Daal Chawal",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 46,
+    "name": "Karhi with Beef",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 47,
+    "name": "Chapli Kabab",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 48,
+    "name": "Shaami Kabab",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 49,
+    "name": "CHICKEN SANDWICH",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 50,
+    "name": "Dum ka qeema",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 51,
+    "name": "White Qeema",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 52,
+    "name": "Chicken Badami Qorma",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 53,
+    "name": "Brain Masala",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 54,
+    "name": "Handi",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 55,
+    "name": "Khogeena",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 56,
+    "name": "Dahi Phulkian",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 57,
+    "name": "Loki ka bhurta",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 58,
+    "name": "Loki ghost",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 59,
+    "name": "Shimla Qeema",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 60,
+    "name": "Lobia Qeema",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 61,
+    "name": "Sarso ka saag",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 62,
+    "name": "Sindhi Pulao",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 63,
+    "name": "Achar ghost",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 64,
+    "name": "Achari Qeema",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 65,
+    "name": "Fried Chicken",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 66,
+    "name": "Beef Burger",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 67,
+    "name": "Kabab Burger",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 68,
+    "name": "Mattar Pulao",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 69,
+    "name": "Maghaz",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 70,
+    "name": "Alo ki qatliyan",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 71,
+    "name": "Namkeen ghost",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 72,
+    "name": "Andah birynai",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 73,
+    "name": "jheenga biryani",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 74,
+    "name": "Kabli Pulao",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 75,
+    "name": "Behair Begun",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 76,
+    "name": "Besan kay parathay",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 77,
+    "name": "Daal chana",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 78,
+    "name": "Daal mash",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 79,
+    "name": "chicken achari",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": "https://www.youtube.com/watch?v=KBRzR9UNT-A"
+  },
+  {
+    "id": 80,
+    "name": "Tahiri",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 81,
+    "name": "CUTLUS",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 82,
+    "name": "ELACHI KA QURMA",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 83,
+    "name": "MASALA TOAST",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 84,
+    "name": "schezwan rice",
+    "dishType": "non-veg",
+    "imgUrl": "http://cdn2.foodviva.com/static-content/food-images/chinese-recipes/schezwan-fried-rice/schezwan-fried-rice.jpg",
+    "recipeLink": "http://foodviva.com/chinese-recipes/schezwan-fried-rice/"
+  },
+  {
+    "id": 85,
+    "name": "GUR WALY CHAWAL",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 86,
+    "name": "CHILLI CHICKEN",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 87,
+    "name": "chicken jalfrezi",
+    "dishType": "non-veg",
+    "imgUrl": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/chickenjalfrezi_91772_16x9.jpg",
+    "recipeLink": "https://www.bbc.com/food/recipes/chickenjalfrezi_91772"
+  },
+  {
+    "id": 88,
+    "name": "Palak gosht",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 89,
+    "name": "Butt",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 90,
+    "name": "Kaleeji Potay",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 91,
+    "name": "Kaleeji",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 92,
+    "name": "PESHAWARI FRY MURGHI",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 93,
+    "name": "BARI MIRCHON KA SALAN",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 94,
+    "name": "Noodles",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 95,
+    "name": "Achaari Paneer",
+    "dishType": "non-veg",
+    "imgUrl": "https://media.indiatimes.in/media/content/2015/May/paneerachaari_1430745673.jpg",
+    "recipeLink": ""
+  },
+  {
+    "id": 96,
+    "name": "Anday Aloo",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 97,
+    "name": "Pizza",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 98,
+    "name": "Bhindi Fry",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 99,
+    "name": "Bhindi Ghost",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 100,
+    "name": "Arwi katliyan",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 101,
+    "name": "Arwi gosht",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 102,
+    "name": "Cheelay",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 103,
+    "name": "Cheela pakoray",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 104,
+    "name": "Fish Curry",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 105,
+    "name": "Fish Salan",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 106,
+    "name": "Fish fry",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 107,
+    "name": "Sofiyani Biryani",
+    "dishType": "non-veg",
+    "imgUrl": "https://cdn2.stylecraze.com/wp-content/uploads/2014/11/Sofiyani-Biryani.jpg",
+    "recipeLink": ""
+  },
+  {
+    "id": 108,
+    "name": "Gobhi Alo",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 109,
+    "name": "Gobhi gosht",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 110,
+    "name": "Begun ka bhurta",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 111,
+    "name": "Aloo Methi",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 112,
+    "name": "Aloo Palak",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 113,
+    "name": "Zeera Aloo",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 114,
+    "name": "Kareelay",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 115,
+    "name": "Palak Mooli",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 116,
+    "name": "Mix Daal",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 117,
+    "name": "Daal tarka",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 118,
+    "name": "Kaali masoor daal",
+    "dishType": "eg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 119,
+    "name": "Dam Beryani",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 120,
+    "name": "Beef Biryani",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 121,
+    "name": "Beef Stew",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 122,
+    "name": "Stew Biryani",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 123,
+    "name": "Dum Beef Biryani",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 124,
+    "name": "Shashlik Sticks With Rice",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 125,
+    "name": "Shashlik Rice",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 126,
+    "name": "Chicken Chilli With Rice",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 127,
+    "name": "singaporian rice",
+    "dishType": "non-veg",
+    "imgUrl": "http://www.pakistanichefrecipes.com/wp-content/uploads/2017/10/Singaporian-Rice.jpg",
+    "recipeLink": "http://www.pakistanichefrecipes.com/singaporian-rice-recipe-chef-zakir.html"
+  },
+  {
+    "id": 128,
+    "name": "Pizza Paratha",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 129,
+    "name": "Mughlai Beef Korma",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 130,
+    "name": "Matar Keema",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 131,
+    "name": "Pasanday",
+    "dishType": "non-veg",
+    "imgUrl": "https://photo-cdn.urdupoint.com/show_img_new/cooking/cooking_images/570x400/pic_85124_1502098112.jpg._3",
+    "recipeLink": "https://www.urdupoint.com/cooking/urdu-recipe/pasanday-asan-tarika-5037.html"
+  },
+  {
+    "id": 132,
+    "name": "Yougurt Chicken",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 133,
+    "name": "White Chicken Makhni Keema",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 134,
+    "name": "Delhi Korma",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 135,
+    "name": "Achari Kofta Handi",
+    "dishType": "non-veg",
+    "imgUrl": "https://photo-cdn.urdupoint.com/show_img_new/cooking/cooking_images/570x400/pic_cd5a1_1514463812.jpg._3",
+    "recipeLink": "https://www.urdupoint.com/cooking/urdu-recipe/achari-kofta-handi-5201.html"
+  },
+  {
+    "id": 136,
+    "name": "Special Murgh Kari",
+    "dishType": "non-veg",
+    "imgUrl": "https://photo-cdn.urdupoint.com/show_img_new/cooking/cooking_images/570x400/pic_4bdc2_1512735457.jpg._3",
+    "recipeLink": "https://www.urdupoint.com/cooking/urdu-recipe/special-murgh-kari-5115.html"
+  },
+  {
+    "id": 137,
+    "name": "Achari Tikka Chicken",
+    "dishType": "non-veg",
+    "imgUrl": "https://photo-cdn.urdupoint.com/show_img_new/cooking/cooking_images/570x400/pic_c4336_1512647589.jpg._3",
+    "recipeLink": "https://www.urdupoint.com/cooking/urdu-recipe/achari-tikka-chicken-5113.html"
+  },
+  {
+    "id": 138,
+    "name": "Pasanday Elaichi",
+    "dishType": "non-veg",
+    "imgUrl": "https://photo-cdn.urdupoint.com/show_img_new/cooking/cooking_images/570x400/1400753318_img4683.jpg._3",
+    "recipeLink": "https://www.urdupoint.com/cooking/urdu-recipe/pasanday-elaichi-4683.html"
+  },
+  {
+    "id": 139,
+    "name": "Bombay Biryani",
+    "dishType": "non-veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  },
+  {
+    "id": 140,
+    "name": "Torai",
+    "dishType": "veg",
+    "imgUrl": "",
+    "recipeLink": ""
+  }
+]
